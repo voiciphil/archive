@@ -2,6 +2,8 @@
 
 ### develop 브랜치에서 새로운 기능을 개발하는 과정
 
+1. 원격 저장소 develop 브랜치를 pull 한다.
+
 ```bash
 (develop) $ git pull origin develop	
 ```
